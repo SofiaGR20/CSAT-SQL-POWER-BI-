@@ -73,26 +73,6 @@ El dashboard permite analizar:
 * Cumplimiento SLA por prioridad.
 * Filtros por fecha, canal, manager y prioridad.
 
-## Vista previa del dashboard
-
-![Dashboard CSAT](./assets/dashboard.png)
-
-## Estructura del repositorio
-
-```text
-CSAT-SQL-POWER-BI/
-│
-├── SQL/
-│   └── quey_proyecto_2.sql
-│
-├── PowerBI/
-│   └── CUSTOMER SATISFACTION.pbix
-│
-├── assets/
-│   └── dashboard.png
-│
-└── README.md
-```
 
 ## Archivos del proyecto
 
